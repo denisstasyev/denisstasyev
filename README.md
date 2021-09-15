@@ -11,6 +11,7 @@ My name is Denis Stasyev and I am currently pursuing my MSc in Computer Science 
 [![Gmail Badge](https://img.shields.io/badge/-denisstasyev@gmail.com-c71610?logo=Gmail&logoColor=white)](mailto:denisstasyev@gmail.com)
 [![Github Repositories](https://img.shields.io/badge/-denisstasyev-24292f?logo=Github&logoColor=white)](https://github.com/denisstasyev?tab=repositories)
 [![NPM Packages](https://img.shields.io/badge/-denisstasyev-24292f?logo=NPM&logoColor=white)](https://www.npmjs.com/~denisstasyev)
+[![NPM Packages](https://img.shields.io/badge/-denisstasyev-629fbc?logo=Habr&logoColor=white)](https://habr.com/ru/users/denisstasyev/posts/)
 
 <a href="https://github.com/denisstasyev">
   <img 
