@@ -14,7 +14,7 @@ My name is Denis Stasyev and I am currently pursuing my MSc in Computer Science 
 [![Habr](https://img.shields.io/badge/-denisstasyev-629fbc?logo=Habr&logoColor=white)](https://habr.com/ru/users/denisstasyev/posts/)
 [![LinkedIn](https://img.shields.io/badge/-denisstasyev-0a66c2?logo=LinkedIn)](https://www.linkedin.com/in/denisstasyev/)
 
-<!-- <a href="https://github.com/denisstasyev">
+<a href="https://github.com/denisstasyev">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=denisstasyev&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&hide_rank=true"
     alt="My GitHub stats"
@@ -22,7 +22,7 @@ My name is Denis Stasyev and I am currently pursuing my MSc in Computer Science 
     height="200"
     width="300"
   />
-</a> -->
+</a>
 
 <!--
 **denisstasyev/denisstasyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
