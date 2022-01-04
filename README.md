@@ -6,7 +6,24 @@
 ![Page Views](https://komarev.com/ghpvc/?username=denisstasyev)
 ![GitHub followers](https://img.shields.io/github/followers/denisstasyev?logo=github)
 
-My name is Denis Stasyev and I am currently pursuing my MSc in Computer Science from [The Moscow Institute of Physics and Technology](https://mipt.ru/english/). I am always open to collaborate on projects and innovative/disruptive ideas. Find out more about me and feel free to connect with me here:
+My name is Denis Stasyev, and I am Web Developer, currently pursuing my MSc in Computer Science at [The Moscow Institute of Physics and Technology](https://mipt.ru/english/). Here are some facts about me:
+
+- 🔭 Working as a Software Engineer.
+- 👨‍💻️ Like TypeScript / JavaScript, Svelte and had experience with React, Redux, as well as writing code on Python and C++.
+- ⚡ Fun fact: worked with pure V8 Engine, without Node.js environment.
+
+<!--
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+-->
+
+**🔗 Links**
+
+I am always open to collaborate on projects and innovative/disruptive ideas. Find out more about me and feel free to connect with me here:
 
 [![Gmail](https://img.shields.io/badge/-denisstasyev@gmail.com-c71610?logo=Gmail&logoColor=white)](mailto:denisstasyev@gmail.com)
 [![Github Repositories](https://img.shields.io/badge/-denisstasyev-24292f?logo=Github&logoColor=white)](https://github.com/denisstasyev?tab=repositories)
@@ -14,6 +31,8 @@ My name is Denis Stasyev and I am currently pursuing my MSc in Computer Science 
 [![Medium](https://img.shields.io/badge/-denisstasyev-292929?logo=Medium)](https://medium.com/@denisstasyev)
 [![Habr](https://img.shields.io/badge/-denisstasyev-629fbc?logo=Habr&logoColor=white)](https://habr.com/ru/users/denisstasyev/posts/)
 [![LinkedIn](https://img.shields.io/badge/-denisstasyev-0a66c2?logo=LinkedIn)](https://www.linkedin.com/in/denisstasyev/)
+
+**📈 Stats**
 
 <a href="https://github.com/denisstasyev">
   <img 
@@ -24,19 +43,3 @@ My name is Denis Stasyev and I am currently pursuing my MSc in Computer Science 
     width="300"
   />
 </a>
-
-<!--
-**denisstasyev/denisstasyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
