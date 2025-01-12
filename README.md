@@ -6,10 +6,10 @@
 ![Page Views](https://komarev.com/ghpvc/?username=denisstasyev)
 ![GitHub followers](https://img.shields.io/github/followers/denisstasyev?logo=github)
 
-My name is Denis Stasyev, and I am Web Developer, currently pursuing my MSc in Computer Science at [The Moscow Institute of Physics and Technology](https://mipt.ru/english/). Here are some facts about me:
+My name is Denis Stasyev, and I am Web Developer, graduated with a Specialist degree in Computer Security (equals MSc) at [The Moscow Institute of Physics and Technology](https://mipt.ru/english/). Here are some facts about me:
 
-- 🔭 Working as a Software Engineer.
-- 👨‍💻️ Like TypeScript / JavaScript, Svelte and had experience with React, Redux, as well as writing code on Python and C++.
+- 🔭 Working as a Software Engineer for years.
+- 👨‍💻️ Like TypeScript / JavaScript, Svelte and had experience with React, Redux, MobX as well as writing code on Python and C++.
 - ⚡ Fun fact: worked with pure V8 Engine, without Node.js environment.
 
 <!--
@@ -20,6 +20,16 @@ My name is Denis Stasyev, and I am Web Developer, currently pursuing my MSc in C
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
+**Student years projects**
+
+1.	[Information_Security_JS](https://github.com/denisstasyev/Information_Security_JS), Mar. 2020 — TypeScript and React based website with encryption algorithms.
+2.	[DRaSS](https://github.com/denisstasyev/DRaSS), Dec. 2019 – "Document Recognition and Storage System" Python app for Linux x86 tablets.
+3.	[E-Gifts](https://github.com/denisstasyev/E-Gifts/tree/dev), Dec. 2019 – AR & VR gifts selling website. [Frontend](https://github.com/denisstasyev/E-Gifts/tree/dev/frontend) based on JavaScript, React.
+4.	[Messenger](https://github.com/denisstasyev/2018-FS-11-Frontend-Stasyev), Jun. 2019 – messenger based on [Python Flask backend](https://github.com/denisstasyev/messenger-backend).
+5.	[STM32_Ventilation_System](https://github.com/denisstasyev/STM32_Ventilation_System), Jul. 2018 – smart ventilation system for offices based on STM32 microcontroller.
+6.	[SNAKE](https://github.com/denisstasyev/SNAKE_LITE), Jun. 2018 – game with a custom C++ game engine using the SFML library.
+
 
 **🔗 Links**
 
